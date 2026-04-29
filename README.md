@@ -1,4 +1,4 @@
-# CreditChain Analytics: Stochastic Credit Risk Modeling 📉⛓️
+# Markov-Credit-Dynamics : Stochastic Credit Risk Modeling 📉⛓️
 
 ## 📖 Overview
 This repository contains an MSc Statistics project focusing on **Corporate Credit Risk Analysis** using **Discrete-Time Markov Chains (DTMC)**. 
@@ -26,4 +26,4 @@ The analysis is powered by the `corporateCreditRatingWithFinancialRatios.csv` da
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/CreditChain-Analytics.git](https://github.com/yourusername/CreditChain-Analytics.git)
+   git clone [https://github.com/Amber-s-art/Markov-Credit-Dynamics.git](https://github.com/Amber-s-art/Markov-Credit-Dynamics.git)
