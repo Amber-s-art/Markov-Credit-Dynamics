@@ -27,3 +27,17 @@ The analysis is powered by the `corporateCreditRatingWithFinancialRatios.csv` da
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Amber-s-art/Markov-Credit-Dynamics.git](https://github.com/Amber-s-art/Markov-Credit-Dynamics.git)
+
+2. Ensure you have the required dependencies installed (e.g., `pip install -r requirements.txt`).
+3. Open `code.ipynb` in Jupyter Notebook or JupyterLab.
+4. Ensure `corporateCreditRatingWithFinancialRatios.csv` is in the same directory as the notebook and run the cells.
+
+## 🔮 Future Work & Extensions
+While this project establishes a robust baseline for modeling credit migrations stochastically, several exciting avenues can be explored in the future:
+1. **Interactive Visualization:** Building an interactive dashboard using Power BI to filter and visualize the financial ratios and rating distributions across different corporate sectors over time.
+2. **Machine Learning Integration:** Train predictive classification models on the financial ratios (ROE, Debt/Equity, etc.) to predict *individual* transition probabilities rather than relying solely on historical empirical averages.
+3. **Continuous-Time Markov Chains (CTMC):** Upgrade the discrete model to a continuous framework, allowing for default events to be modeled at random intervals rather than fixed annual steps.
+4. **Macroeconomic Stress Testing:** Condition the transition matrices on macroeconomic variables (e.g., interest rates, GDP growth) to see how credit migrations behave during recessions versus economic booms.
+
+## 📝 License
+This project is licensed under the MIT License.
